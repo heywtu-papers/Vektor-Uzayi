@@ -1,0 +1,25 @@
+Vektör uzayı
+
+Yöney uzayı veya Vektör uzayı, matematikte ölçeklenebilir ve eklenebilir bir nesneler (vektörler) uzayı. Daha resmi bir tanımla, bir yöney (vektör) uzayı, üzerinde yöney (vektör) ekleme (toplama) ve ölçeksel çarpma adı verilen iki işlemin yapılabildiği ve bunların bazı aksiyomları sağladığı kümedir.
+
+K bir cisim ve  (V,+,0) (V,+,0) bir abelyen grup olsun. Ayrıca KxV'den V'ye giden bir işlevin (fonksiyonun) varlığını varsayalım. Eğer a ∈ K ve  v ∈ V ise, bu işlevin  (a,v) çiftinde aldığı değeri av olarak yazalım. Bütün bunlar şu özellikleri sağlasın: Her  a,b ∈ K ve v,w ∈ V için
+
+V1. a(v+w)=av+aw
+
+V2. (a+b)v=av+bv
+
+V3. (ab)v=a(bv)
+
+V4.e 1v=v
+
+O zaman  (V,+,0,K --> V) yapısına K üzerine bir yöney uzayı veya vektör uzayı adı verilir. {\displaystyle V}{\displaystyle V} kümesinin elemanlarına yöney (vektör) denir.
+
+Eğer K bir cisimse ve n bir doğal sayıysa, K^n kümesi,
+
+(x_1,...,x_n) + (y_1,...,y_n)=(x_1 + y_1,...,x_n + y_n)
+
+işlemiyle ve
+
+a(x_1,...,x_n) = (ax_1,...,ax_n) işlemiyle bir yöney (vektör) uzayıdır.
+
+Burada  K^n yerine K'nın herhangi bir kartezyen çarpımını alabiliriz ve yöney (vektör) uzayı yapısını benzer biçimde (koordinat koordinat) tanımlayabiliriz.
